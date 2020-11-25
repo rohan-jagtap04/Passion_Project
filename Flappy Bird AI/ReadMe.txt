@@ -1,0 +1,1 @@
+This is a Flappy Bird project using Neural Networks to eventually automate gameplay. Enjoy :)
