@@ -2,4 +2,5 @@ This project is a test token that I have launch called RoToken. During The Knowl
 
 Can be run on "https://remix.ethereum.org/" with only the files provided.
 
-If you are interested about this token, on "https://rinkeby.etherscan.io", you can enter "0x889b369e33ef0b2f26eb85a0809dd0c7ee09f605" to see my activity. (Should be 1-2 transactions)
+If you are interested about this token, on "https://rinkeby.etherscan.io", you can enter "0x889b369e33ef0b2f26eb85a0809dd0c7ee09f605" to see my activity. 
+(You should be able to see two different transactions, one worth 0 ether and the other worth 18.75 ether)
